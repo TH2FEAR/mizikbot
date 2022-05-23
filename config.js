@@ -1,6 +1,6 @@
 module.exports = {
         px: '!',
-        playing: 'TheTomenTosa Dev. ❤️ Müzik Botu',
+        playing: 'CleaX ❤️ Müzik',
 
     opt: {
         DJ: {
@@ -8,7 +8,7 @@ module.exports = {
             roleName: 'DJ', //DJ ROLÜNÜN İSMİ NE OLACAK İSE YAZIN SUNUCUNUZDA O ROLDEKİLER KULLANA BİLİR
             commands: ['back', 'clear', 'filter', 'loop', 'pause', 'resume', 'skip', 'stop', 'volume'] //DOKUNMA
         },
-        maxVol: 250, //maximum ses seviyesi kaç olacak belirte bilirsiniz.
+        maxVol: 500, //maximum ses seviyesi kaç olacak belirte bilirsiniz.
         loopMessage: false, //elleme
         discordPlayer: {
             ytdlOptions: {
